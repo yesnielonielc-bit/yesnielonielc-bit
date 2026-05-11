@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8N4N5y2.png" alt="Yesniel Profile Banner" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Yesniel+%F0%9F%91%8B;Full+Stack+Developer;Soluciones+B2B+Innovadoras" alt="Typing SVG">
 </p>
 
 # ¡Hola! Soy Yesniel 👋
@@ -39,4 +39,4 @@ Apasionado por la tecnología y la creación de soluciones digitales innovadoras
 </p>
 
 ---
-<p align="center">© 2024 Yesniel Conrado. Powered by Mora & Cyan Energy.</p>
+<p align="center">© 2024 Yesniel Cordero.</p>
