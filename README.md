@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Yesniel 👋
 
-<!--
-**yesnielonielc-bit/yesnielonielc-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero de Sistemas | Fullstack Developer | Escritor
+Me apasiona transformar ideas en soluciones digitales, desde sistemas de inventario hasta marketplaces B2B.
 
-Here are some ideas to get you started:
+- 🛠️ **Actualmente trabajando en:** Proyecto Marketplace B2B 
+- 🚀 **Tecnologías clave:** Java (Spring Boot), TypeScript, Supabase,Python, MySQL y Flutter.
+- ✍️ **Intereses:** Escritura creativa y mecánica automotriz.
+- 📍 El Rama, Nicaragua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Mi Stack Tecnológico
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 📊 Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=yesnielonielc-bit&show_icons=true&theme=tokyonight)
