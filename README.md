@@ -1,42 +1,42 @@
 <p align="center">
-  <img src="https://i.ibb.co/Xz9Fp06/yesniel-banner-full-cyan.png" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Yesniel+%F0%9F%91%8B;Full+Stack+Developer;Soluciones+Full+Innovadoras" alt="Typing SVG">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Yesniel+%F0%9F%91%8B;Full+Stack+Developer;Ingeniero+de+Sistemas" />
-</h1>
+# ¡Hola! Soy Yesniel 👋
+
+### Ingeniero de Sistemas | Fullstack Developer | Nicaragua
+
+Apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente enfocado en el desarrollo del **Proyecto Hakaton 2026** (Marketplace B2B).
+
+- 🛠️ **Desarrollando:** Plataforma de interacción de negocios.
+- 🚀 **Especialidad:** Integración de Backend y Base de Datos.
+- 📍 El Rama, RAAS.
 
 <p align="center">
-  <strong>Desarrollador apasionado por crear soluciones B2B y automatización. 👨‍💻</strong><br>
-  Escritor por vocación y entusiasta de la mecánica automotriz. ✍️🔧
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=50&section=header" width="100%"/>
+</p>
+
+### 💻 Mi Stack Tecnológico
+
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-8A2BE2?style=flat-square&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-00FFFF?style=flat-square&logo=supabase&logoColor=black)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=50&section=header" width="100%"/>
+</p>
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesnielonielc-bit&show_icons=true&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2&border_radius=10&hide_border=true" alt="Estadísticas de Yesniel" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesnielonielc-bit&layout=compact&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2&border_radius=10&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
-
-### 💻 Stack Tecnológico
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black" />
-</p>
-
----
-
-### 🚀 Proyectos Destacados
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yesnielonielc-bit&repo=Proyecto-hakaton-2026&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yesnielonielc-bit&repo=SistemaVenta.java&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2" />
-</p>
-
----
-
-### 📊 Actividad y Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesnielonielc-bit&show_icons=true&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesnielonielc-bit&layout=compact&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=50&section=footer" width="100%"/>
-</p>
+<p align="center">© 2024 Yesniel Cordero.</p>
