@@ -1,21 +1,42 @@
+<p align="center">
+  <img src="https://i.imgur.com/8N4N5y2.png" alt="Yesniel Profile Banner" width="100%">
+</p>
+
 # ¡Hola! Soy Yesniel 👋
 
-### Ingeniero de Sistemas | Fullstack Developer | Escritor
-Me apasiona transformar ideas en soluciones digitales, desde sistemas de inventario hasta marketplaces B2B.
+### Ingeniero de Sistemas | Fullstack Developer | Nicaragua
 
-- 🛠️ **Actualmente trabajando en:** Proyecto Marketplace B2B 
-- 🚀 **Tecnologías clave:** Java (Spring Boot), TypeScript, Supabase,Python, MySQL y Flutter.
-- ✍️ **Intereses:** Escritura creativa y mecánica automotriz.
-- 📍 El Rama, Nicaragua.
+Apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente enfocado en el desarrollo del **Proyecto Hakaton 2026** (Marketplace B2B).
 
----
+- 🛠️ **Desarrollando:** Plataforma de interacción de negocios.
+- 🚀 **Especialidad:** Integración de Backend y Base de Datos.
+- 📍 El Rama, RAAS.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=50&section=header" width="100%"/>
+</p>
 
 ### 💻 Mi Stack Tecnológico
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=yesnielonielc-bit&show_icons=true&theme=tokyonight)
+
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-8A2BE2?style=flat-square&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-00FFFF?style=flat-square&logo=supabase&logoColor=black)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=50&section=header" width="100%"/>
+</p>
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesnielonielc-bit&show_icons=true&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2&border_radius=10&hide_border=true" alt="Estadísticas de Yesniel" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesnielonielc-bit&layout=compact&theme=dark&bg_color=1a002a&title_color=00ffff&text_color=ffffff&icon_color=8a2be2&border_radius=10&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+<p align="center">© 2024 Yesniel Conrado. Powered by Mora & Cyan Energy.</p>
