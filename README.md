@@ -6,7 +6,7 @@
 
 ### Ingeniero de Sistemas | Fullstack Developer | Nicaragua
 
-Apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente enfocado en el desarrollo del **Proyecto Hakaton 2026** (Marketplace B2B).
+Apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente enfocado en el desarrollo de proyecto (Marketplace B2B).
 
 - 🛠️ **Desarrollando:** Plataforma de interacción de negocios.
 - 🚀 **Especialidad:** Integración de Backend y Base de Datos.
