@@ -22,6 +22,7 @@ Apasionado por la tecnología y la creación de soluciones digitales innovadoras
 ![Spring](https://img.shields.io/badge/Spring-8A2BE2?style=flat-square&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-00FFFF?style=flat-square&logo=supabase&logoColor=black)
 
