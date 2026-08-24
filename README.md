@@ -34,8 +34,10 @@ Apasionado por la tecnología y la creación de soluciones digitales innovadoras
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=snake&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-8A2BE2?style=flat-square&logo=django&logoColor=white)
 
-**Bases de Datos & Cloud**
-![SQL](https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black)
+**Bases de Datos & Herramientas**
+![MySQL](https://img.shields.io/badge/MySQL-00FFFF?style=flat-square&logo=mysql&logoColor=black)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00FFFF?style=flat-square&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black)
 ![NoSQL](https://img.shields.io/badge/NoSQL-00FFFF?style=flat-square&logo=mongodb&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-00FFFF?style=flat-square&logo=supabase&logoColor=black)
 
