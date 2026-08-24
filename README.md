@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Yesniel+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Yesniel+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer" alt="Typing SVG">
 </p>
 
 # ¡Hola! Soy Yesniel 👋
 
-### Ingeniero de Sistemas | Fullstack Developer | Nicaragua
+### Ingeniero de Sistemas | Fullstack & Mobile Developer | Nicaragua
 
-Apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente enfocado en el desarrollo de proyecto (Marketplace B2B).
+Apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente enfocado en el desarrollo de proyectos web y despliegues de aplicaciones móviles.
 
-- 🛠️ **Desarrollando:** Plataforma de interacción de negocios.
-- 🚀 **Especialidad:** Integración de Backend y Base de Datos.
+- 🛠️ **Desarrollando:** Plataforma de interacción de negocios B2B (Marketplace).
+- 🚀 **Especialidad:** Integración de Backend, Bases de Datos y Desarrollo/Despliegue Móvil.
+- 📱 **Mobile:** Desarrollo e implementación de aplicaciones con Flutter y despliegue en Android.
 - 📍 El Rama, RAAS.
 
 <p align="center">
@@ -18,9 +19,10 @@ Apasionado por la tecnología y la creación de soluciones digitales innovadoras
 
 ### 💻 Mi Stack Tecnológico
 
+![Flutter](https://img.shields.io/badge/Flutter-00FFFF?style=flat-square&logo=flutter&logoColor=black)
+![Android](https://img.shields.io/badge/Android-00FFFF?style=flat-square&logo=android&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-8A2BE2?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-8A2BE2?style=flat-square&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=snake&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black)
@@ -40,4 +42,4 @@ Apasionado por la tecnología y la creación de soluciones digitales innovadoras
 </p>
 
 ---
-<p align="center">© 2024 Yesniel Cordero.</p>
+<p align="center">© 2026 Yesniel Cordero.</p>
